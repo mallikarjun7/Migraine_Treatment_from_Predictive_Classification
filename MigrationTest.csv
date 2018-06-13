@@ -1,0 +1,531 @@
+,id,time,dos,hatype,age,airq,medication,headache,sex
+1,27,17,256,Aura,24,11,reduced,no,male
+2,27,18,257,Aura,24,35,reduced,yes,male
+3,28,1,240,No Aura,54,46,continuing,yes,female
+4,28,2,241,No Aura,54,27,continuing,yes,female
+5,28,3,242,No Aura,54,29,continuing,yes,female
+6,28,4,243,No Aura,54,34,continuing,yes,female
+7,28,5,244,No Aura,54,38,continuing,yes,female
+8,28,6,245,No Aura,54,22,continuing,yes,female
+9,28,7,246,No Aura,54,34,continuing,no,female
+10,28,8,247,No Aura,54,20,continuing,yes,female
+11,28,9,248,No Aura,54,24,continuing,yes,female
+12,28,10,249,No Aura,54,21,continuing,no,female
+13,28,11,250,No Aura,54,10,continuing,no,female
+14,28,12,251,No Aura,54,36,continuing,yes,female
+15,28,13,252,No Aura,54,44,continuing,yes,female
+16,28,14,253,No Aura,54,33,continuing,yes,female
+17,28,15,254,No Aura,54,17,continuing,yes,female
+18,28,16,255,No Aura,54,18,continuing,yes,female
+19,28,17,256,No Aura,54,28,continuing,no,female
+20,28,18,257,No Aura,54,51,continuing,yes,female
+21,28,19,258,No Aura,54,48,continuing,no,female
+22,28,20,259,No Aura,54,36,continuing,yes,female
+23,28,21,260,No Aura,54,20,continuing,yes,female
+24,28,22,261,No Aura,54,22,continuing,yes,female
+25,28,23,262,No Aura,54,20,continuing,yes,female
+26,28,24,263,No Aura,54,17,continuing,yes,female
+27,28,25,264,No Aura,54,31,continuing,yes,female
+28,29,1,296,No Aura,32,10,continuing,yes,male
+29,29,2,297,No Aura,32,14,continuing,yes,male
+30,29,3,298,No Aura,32,24,continuing,yes,male
+31,29,4,299,No Aura,32,19,continuing,yes,male
+32,29,5,300,No Aura,32,17,continuing,yes,male
+33,29,6,301,No Aura,32,10,continuing,yes,male
+34,29,7,302,No Aura,32,14,continuing,yes,male
+35,29,8,303,No Aura,32,11,continuing,yes,male
+36,29,9,304,No Aura,32,12,continuing,yes,male
+37,29,10,305,No Aura,32,12,continuing,yes,male
+38,29,11,306,No Aura,32,14,continuing,yes,male
+39,29,12,307,No Aura,32,18,continuing,yes,male
+40,29,13,308,No Aura,32,11,continuing,yes,male
+41,29,14,309,No Aura,32,10,continuing,yes,male
+42,29,15,310,No Aura,32,12,continuing,yes,male
+43,29,16,311,No Aura,32,13,continuing,yes,male
+44,29,17,312,No Aura,32,20,continuing,yes,male
+45,29,18,313,No Aura,32,8,continuing,yes,male
+46,30,1,331,Aura,63,12,continuing,yes,male
+47,30,2,332,Aura,63,13,continuing,no,male
+48,30,3,333,Aura,63,13,continuing,no,male
+49,30,4,334,Aura,63,14,continuing,yes,male
+50,30,5,335,Aura,63,12,continuing,no,male
+51,30,6,336,Aura,63,12,continuing,no,male
+52,30,7,337,Aura,63,14,continuing,yes,male
+53,30,8,338,Aura,63,14,continuing,no,male
+54,30,9,339,Aura,63,20,continuing,no,male
+55,30,10,340,Aura,63,12,continuing,no,male
+56,30,11,341,Aura,63,14,continuing,yes,male
+57,30,12,342,Aura,63,11,continuing,yes,male
+58,30,13,343,Aura,63,35,continuing,yes,male
+59,30,14,344,Aura,63,22,continuing,no,male
+60,30,15,345,Aura,63,15,continuing,no,male
+61,30,16,346,Aura,63,17,continuing,no,male
+62,30,17,347,Aura,63,12,continuing,no,male
+63,30,18,348,Aura,63,45,continuing,yes,male
+64,31,1,331,Aura,46,14,continuing,yes,female
+65,31,2,332,Aura,46,12,continuing,yes,female
+66,31,3,333,Aura,46,19,continuing,yes,female
+67,31,4,334,Aura,46,14,continuing,yes,female
+68,31,5,335,Aura,46,20,continuing,yes,female
+69,31,6,336,Aura,46,15,continuing,yes,female
+70,31,7,337,Aura,46,16,continuing,no,female
+71,31,8,338,Aura,46,20,continuing,yes,female
+72,31,9,339,Aura,46,16,continuing,yes,female
+73,31,10,340,Aura,46,13,continuing,yes,female
+74,31,11,341,Aura,46,20,continuing,yes,female
+75,31,12,342,Aura,46,17,continuing,yes,female
+76,31,13,343,Aura,46,32,continuing,yes,female
+77,31,14,344,Aura,46,19,continuing,yes,female
+78,31,15,345,Aura,46,18,continuing,yes,female
+79,31,16,346,Aura,46,19,continuing,no,female
+80,31,17,347,Aura,46,14,continuing,no,female
+81,31,18,348,Aura,46,37,continuing,yes,female
+82,31,19,349,Aura,46,22,continuing,no,female
+83,32,1,331,Aura,30,10,reduced,yes,female
+84,32,2,332,Aura,30,13,reduced,yes,female
+85,32,3,333,Aura,30,45,reduced,yes,female
+86,32,4,334,Aura,30,28,reduced,yes,female
+87,32,5,335,Aura,30,11,reduced,yes,female
+88,32,6,336,Aura,30,10,reduced,yes,female
+89,32,7,337,Aura,30,14,reduced,yes,female
+90,32,8,338,Aura,30,15,reduced,yes,female
+91,32,9,339,Aura,30,13,reduced,yes,female
+92,32,10,340,Aura,30,11,reduced,yes,female
+93,32,11,341,Aura,30,10,reduced,yes,female
+94,32,13,343,Aura,30,12,reduced,yes,female
+95,32,14,344,Aura,30,14,reduced,yes,female
+96,32,15,345,Aura,30,14,reduced,yes,female
+97,32,16,346,Aura,30,16,reduced,yes,female
+98,32,17,347,Aura,30,8,reduced,yes,female
+99,32,18,348,Aura,30,25,reduced,yes,female
+100,32,19,349,Aura,30,20,reduced,yes,female
+101,32,20,350,Aura,30,14,reduced,yes,female
+102,32,21,351,Aura,30,10,reduced,yes,female
+103,32,22,352,Aura,30,12,reduced,yes,female
+104,33,1,380,No Aura,36,18,continuing,yes,female
+105,33,2,381,No Aura,36,18,continuing,yes,female
+106,33,3,382,No Aura,36,14,continuing,yes,female
+107,33,4,383,No Aura,36,13,continuing,yes,female
+108,33,5,384,No Aura,36,19,continuing,yes,female
+109,33,6,385,No Aura,36,17,continuing,yes,female
+110,33,15,394,No Aura,36,16,continuing,yes,female
+111,33,16,395,No Aura,36,17,continuing,yes,female
+112,33,17,396,No Aura,36,17,continuing,yes,female
+113,33,19,398,No Aura,36,22,continuing,yes,female
+114,33,20,399,No Aura,36,13,continuing,yes,female
+115,33,21,400,No Aura,36,21,continuing,yes,female
+116,33,22,401,No Aura,36,22,continuing,yes,female
+117,33,23,402,No Aura,36,22,continuing,yes,female
+118,33,24,403,No Aura,36,21,continuing,yes,female
+119,33,25,404,No Aura,36,20,continuing,yes,female
+120,33,27,406,No Aura,36,19,continuing,yes,female
+121,34,1,380,Aura,39,18,reduced,yes,female
+122,34,2,381,Aura,39,28,reduced,yes,female
+123,34,3,382,Aura,39,25,reduced,yes,female
+124,34,4,383,Aura,39,29,reduced,yes,female
+125,34,5,384,Aura,39,29,reduced,yes,female
+126,34,6,385,Aura,39,11,reduced,no,female
+127,34,7,386,Aura,39,14,reduced,yes,female
+128,34,8,387,Aura,39,14,reduced,yes,female
+129,34,9,388,Aura,39,17,reduced,yes,female
+130,34,10,389,Aura,39,9,reduced,yes,female
+131,34,11,390,Aura,39,11,reduced,yes,female
+132,34,12,391,Aura,39,12,reduced,yes,female
+133,34,13,392,Aura,39,14,reduced,yes,female
+134,34,14,393,Aura,39,9,reduced,yes,female
+135,34,15,394,Aura,39,10,reduced,yes,female
+136,34,16,395,Aura,39,29,reduced,no,female
+137,34,17,396,Aura,39,12,reduced,no,female
+138,34,18,397,Aura,39,12,reduced,no,female
+139,34,19,398,Aura,39,12,reduced,no,female
+140,34,20,399,Aura,39,12,reduced,no,female
+141,34,21,400,Aura,39,19,reduced,yes,female
+142,34,22,401,Aura,39,14,reduced,no,female
+143,34,23,402,Aura,39,16,reduced,no,female
+144,34,24,403,Aura,39,18,reduced,no,female
+145,34,25,404,Aura,39,15,reduced,no,female
+146,34,26,405,Aura,39,14,reduced,no,female
+147,34,27,406,Aura,39,15,reduced,no,female
+148,34,28,407,Aura,39,13,reduced,yes,female
+149,34,29,408,Aura,39,13,reduced,no,female
+150,34,30,409,Aura,39,18,reduced,yes,female
+151,34,31,410,Aura,39,27,reduced,no,female
+152,34,32,411,Aura,39,22,reduced,no,female
+153,34,33,412,Aura,39,24,reduced,no,female
+154,34,34,413,Aura,39,22,reduced,no,female
+155,34,35,414,Aura,39,16,reduced,no,female
+156,34,36,415,Aura,39,15,reduced,no,female
+157,34,37,416,Aura,39,14,reduced,yes,female
+158,34,38,417,Aura,39,18,reduced,no,female
+159,34,39,418,Aura,39,14,reduced,no,female
+160,34,40,419,Aura,39,17,reduced,no,female
+161,34,41,420,Aura,39,18,reduced,no,female
+162,34,42,421,Aura,39,15,reduced,yes,female
+163,34,43,422,Aura,39,18,reduced,no,female
+164,34,44,423,Aura,39,19,reduced,no,female
+165,34,45,424,Aura,39,21,reduced,yes,female
+166,34,46,425,Aura,39,20,reduced,no,female
+167,35,1,380,No Aura,46,18,continuing,yes,female
+168,35,2,381,No Aura,46,28,continuing,no,female
+169,35,3,382,No Aura,46,25,continuing,no,female
+170,35,4,383,No Aura,46,29,continuing,yes,female
+171,35,5,384,No Aura,46,29,continuing,yes,female
+172,35,6,385,No Aura,46,11,continuing,yes,female
+173,35,7,386,No Aura,46,14,continuing,yes,female
+174,35,8,387,No Aura,46,14,continuing,yes,female
+175,35,9,388,No Aura,46,17,continuing,yes,female
+176,35,10,389,No Aura,46,9,continuing,no,female
+177,35,11,390,No Aura,46,11,continuing,no,female
+178,35,12,391,No Aura,46,12,continuing,no,female
+179,35,13,392,No Aura,46,14,continuing,no,female
+180,35,14,393,No Aura,46,9,continuing,no,female
+181,35,15,394,No Aura,46,10,continuing,no,female
+182,35,16,395,No Aura,46,29,continuing,yes,female
+183,35,17,396,No Aura,46,12,continuing,no,female
+184,35,18,397,No Aura,46,12,continuing,no,female
+185,36,1,380,Aura,32,18,continuing,yes,female
+186,36,2,381,Aura,32,18,continuing,yes,female
+187,36,3,382,Aura,32,14,continuing,no,female
+188,36,4,383,Aura,32,13,continuing,no,female
+189,36,5,384,Aura,32,19,continuing,yes,female
+190,36,6,385,Aura,32,17,continuing,no,female
+191,36,7,386,Aura,32,14,continuing,no,female
+192,36,8,387,Aura,32,14,continuing,no,female
+193,36,9,388,Aura,32,21,continuing,no,female
+194,36,10,389,Aura,32,16,continuing,yes,female
+195,36,11,390,Aura,32,19,continuing,no,female
+196,36,12,391,Aura,32,18,continuing,no,female
+197,36,13,392,Aura,32,19,continuing,no,female
+198,36,14,393,Aura,32,14,continuing,no,female
+199,36,15,394,Aura,32,16,continuing,yes,female
+200,36,16,395,Aura,32,17,continuing,no,female
+201,36,17,396,Aura,32,17,continuing,yes,female
+202,36,18,397,Aura,32,18,continuing,no,female
+203,37,1,380,Aura,45,17,continuing,yes,female
+204,37,2,381,Aura,45,16,continuing,yes,female
+205,37,3,382,Aura,45,19,continuing,yes,female
+206,37,4,383,Aura,45,16,continuing,no,female
+207,37,5,384,Aura,45,19,continuing,yes,female
+208,37,6,385,Aura,45,16,continuing,yes,female
+209,37,7,386,Aura,45,17,continuing,yes,female
+210,37,8,387,Aura,45,19,continuing,yes,female
+211,37,9,388,Aura,45,20,continuing,yes,female
+212,37,10,389,Aura,45,32,continuing,yes,female
+213,37,11,390,Aura,45,16,continuing,no,female
+214,37,12,391,Aura,45,14,continuing,yes,female
+215,37,13,392,Aura,45,17,continuing,yes,female
+216,37,14,393,Aura,45,14,continuing,yes,female
+217,37,15,394,Aura,45,16,continuing,yes,female
+218,37,16,395,Aura,45,17,continuing,yes,female
+219,37,17,396,Aura,45,14,continuing,yes,female
+220,37,18,397,Aura,45,20,continuing,yes,female
+221,38,1,408,Mixed,28,14,reduced,yes,female
+222,38,2,409,Mixed,28,17,reduced,yes,female
+223,38,3,410,Mixed,28,27,reduced,yes,female
+224,38,4,411,Mixed,28,22,reduced,no,female
+225,38,5,412,Mixed,28,28,reduced,yes,female
+226,38,6,413,Mixed,28,24,reduced,yes,female
+227,38,7,414,Mixed,28,20,reduced,yes,female
+228,38,8,415,Mixed,28,33,reduced,yes,female
+229,38,9,416,Mixed,28,23,reduced,yes,female
+230,38,10,417,Mixed,28,20,reduced,yes,female
+231,38,11,418,Mixed,28,20,reduced,yes,female
+232,38,12,419,Mixed,28,20,reduced,yes,female
+233,38,13,420,Mixed,28,20,reduced,yes,female
+234,38,14,421,Mixed,28,22,reduced,yes,female
+235,38,15,422,Mixed,28,23,reduced,yes,female
+236,38,16,423,Mixed,28,23,reduced,yes,female
+237,38,17,424,Mixed,28,26,reduced,yes,female
+238,38,18,425,Mixed,28,24,reduced,yes,female
+239,38,19,426,Mixed,28,16,reduced,yes,female
+240,117,20,1085,No Aura,41,11,continuing,yes,male
+241,117,21,1086,No Aura,41,11,continuing,no,male
+242,117,28,1093,No Aura,41,9,continuing,no,male
+243,117,29,1094,No Aura,41,10,continuing,yes,male
+244,117,30,1095,No Aura,41,13,continuing,yes,male
+245,117,31,1096,No Aura,41,18,continuing,yes,male
+246,117,32,1097,No Aura,41,17,continuing,yes,male
+247,117,33,1098,No Aura,41,14,continuing,no,male
+248,118,-16,1084,No Aura,18,17,none,yes,female
+249,118,-15,1085,No Aura,18,18,none,yes,female
+250,118,-14,1086,No Aura,18,18,none,no,female
+251,118,-13,1087,No Aura,18,11,none,no,female
+252,118,-12,1088,No Aura,18,18,none,no,female
+253,118,-11,1089,No Aura,18,17,none,yes,female
+254,118,-10,1090,No Aura,18,12,none,no,female
+255,118,-9,1091,No Aura,18,16,none,no,female
+256,118,-8,1092,No Aura,18,17,none,yes,female
+257,118,-7,1093,No Aura,18,17,none,yes,female
+258,118,-6,1094,No Aura,18,17,none,yes,female
+259,118,-4,1096,No Aura,18,14,none,yes,female
+260,118,-3,1097,No Aura,18,14,none,yes,female
+261,118,1,1101,No Aura,18,18,none,no,female
+262,118,2,1102,No Aura,18,23,none,yes,female
+263,118,3,1103,No Aura,18,18,none,yes,female
+264,118,4,1104,No Aura,18,16,none,no,female
+265,118,5,1105,No Aura,18,12,none,yes,female
+266,118,6,1106,No Aura,18,17,none,no,female
+267,118,7,1107,No Aura,18,27,none,no,female
+268,118,8,1108,No Aura,18,32,none,no,female
+269,118,9,1109,No Aura,18,24,none,no,female
+270,118,10,1110,No Aura,18,18,none,yes,female
+271,118,11,1111,No Aura,18,22,none,yes,female
+272,118,12,1112,No Aura,18,22,none,yes,female
+273,118,13,1113,No Aura,18,18,none,no,female
+274,118,14,1114,No Aura,18,16,none,no,female
+275,118,15,1115,No Aura,18,19,none,no,female
+276,118,16,1116,No Aura,18,21,none,yes,female
+277,118,17,1117,No Aura,18,15,none,yes,female
+278,118,18,1118,No Aura,18,12,none,yes,female
+279,118,19,1119,No Aura,18,12,none,no,female
+280,118,26,1126,No Aura,18,21,none,no,female
+281,119,-18,1047,No Aura,40,22,continuing,yes,female
+282,119,-17,1048,No Aura,40,22,continuing,yes,female
+283,119,-16,1049,No Aura,40,18,continuing,yes,female
+284,119,-15,1050,No Aura,40,14,continuing,yes,female
+285,119,-14,1051,No Aura,40,20,continuing,no,female
+286,119,-13,1052,No Aura,40,25,continuing,yes,female
+287,119,-12,1053,No Aura,40,16,continuing,yes,female
+288,119,-11,1054,No Aura,40,10,continuing,yes,female
+289,119,-10,1055,No Aura,40,18,continuing,no,female
+290,119,-9,1056,No Aura,40,14,continuing,no,female
+291,119,-8,1057,No Aura,40,17,continuing,no,female
+292,119,-7,1058,No Aura,40,20,continuing,no,female
+293,119,-6,1059,No Aura,40,18,continuing,no,female
+294,119,-5,1060,No Aura,40,11,continuing,no,female
+295,119,1,1066,No Aura,40,20,continuing,no,female
+296,119,2,1067,No Aura,40,21,continuing,yes,female
+297,119,3,1068,No Aura,40,18,continuing,yes,female
+298,119,4,1069,No Aura,40,22,continuing,yes,female
+299,119,5,1070,No Aura,40,20,continuing,no,female
+300,119,6,1071,No Aura,40,18,continuing,no,female
+301,119,7,1072,No Aura,40,18,continuing,no,female
+302,120,-29,1036,No Aura,52,24.8,continuing,yes,female
+303,120,-28,1037,No Aura,52,24.8,continuing,yes,female
+304,120,-27,1038,No Aura,52,24.8,continuing,yes,female
+305,120,-26,1039,No Aura,52,24.8,continuing,no,female
+306,120,-25,1040,No Aura,52,24.8,continuing,yes,female
+307,120,-24,1041,No Aura,52,24.8,continuing,yes,female
+308,120,-23,1042,No Aura,52,24.8,continuing,yes,female
+309,120,-22,1043,No Aura,52,24.8,continuing,yes,female
+310,120,-21,1044,No Aura,52,24.8,continuing,yes,female
+311,120,-20,1045,No Aura,52,24.8,continuing,no,female
+312,120,-19,1046,No Aura,52,24.8,continuing,no,female
+313,120,-18,1047,No Aura,52,24.8,continuing,yes,female
+314,120,-17,1048,No Aura,52,24.8,continuing,no,female
+315,120,-16,1049,No Aura,52,24.8,continuing,no,female
+316,120,-15,1050,No Aura,52,24.8,continuing,no,female
+317,120,-14,1051,No Aura,52,24.8,continuing,no,female
+318,120,-13,1052,No Aura,52,24.8,continuing,yes,female
+319,120,-12,1053,No Aura,52,24.8,continuing,no,female
+320,120,-11,1054,No Aura,52,24.8,continuing,no,female
+321,120,-10,1055,No Aura,52,24.8,continuing,no,female
+322,120,-9,1056,No Aura,52,24.8,continuing,no,female
+323,120,-8,1057,No Aura,52,24.8,continuing,yes,female
+324,120,-7,1058,No Aura,52,24.8,continuing,yes,female
+325,120,-6,1059,No Aura,52,24.8,continuing,yes,female
+326,120,-5,1060,No Aura,52,24.8,continuing,no,female
+327,120,-4,1061,No Aura,52,24.8,continuing,no,female
+328,120,-3,1062,No Aura,52,24.8,continuing,no,female
+329,120,-2,1063,No Aura,52,24.8,continuing,no,female
+330,120,-1,1064,No Aura,52,24.8,continuing,no,female
+331,120,1,1066,No Aura,52,24.8,continuing,yes,female
+332,120,2,1067,No Aura,52,24.8,continuing,yes,female
+333,120,3,1068,No Aura,52,24.8,continuing,yes,female
+334,120,4,1069,No Aura,52,24.8,continuing,yes,female
+335,120,5,1070,No Aura,52,24.8,continuing,no,female
+336,120,6,1071,No Aura,52,24.8,continuing,yes,female
+337,120,7,1072,No Aura,52,24.8,continuing,yes,female
+338,120,8,1073,No Aura,52,24.8,continuing,yes,female
+339,120,9,1074,No Aura,52,24.8,continuing,no,female
+340,120,10,1075,No Aura,52,24.8,continuing,yes,female
+341,120,11,1076,No Aura,52,24.8,continuing,no,female
+342,120,12,1077,No Aura,52,24.8,continuing,yes,female
+343,120,13,1078,No Aura,52,24.8,continuing,no,female
+344,120,14,1079,No Aura,52,24.8,continuing,yes,female
+345,120,15,1080,No Aura,52,24.8,continuing,yes,female
+346,120,16,1081,No Aura,52,24.8,continuing,yes,female
+347,120,17,1082,No Aura,52,24.8,continuing,yes,female
+348,120,18,1083,No Aura,52,24.8,continuing,no,female
+349,120,19,1084,No Aura,52,24.8,continuing,no,female
+350,120,20,1085,No Aura,52,24.8,continuing,no,female
+351,120,22,1087,No Aura,52,24.8,continuing,yes,female
+352,120,26,1091,No Aura,52,24.8,continuing,yes,female
+353,120,27,1092,No Aura,52,24.8,continuing,no,female
+354,120,28,1093,No Aura,52,24.8,continuing,no,female
+355,120,29,1094,No Aura,52,24.8,continuing,yes,female
+356,120,30,1095,No Aura,52,24.8,continuing,yes,female
+357,120,32,1097,No Aura,52,24.8,continuing,no,female
+358,120,33,1098,No Aura,52,24.8,continuing,no,female
+359,120,35,1100,No Aura,52,24.8,continuing,yes,female
+360,120,36,1101,No Aura,52,24.8,continuing,yes,female
+361,120,37,1102,No Aura,52,24.8,continuing,yes,female
+362,120,38,1103,No Aura,52,24.8,continuing,no,female
+363,120,39,1104,No Aura,52,24.8,continuing,no,female
+364,120,40,1105,No Aura,52,24.8,continuing,no,female
+365,120,41,1106,No Aura,52,24.8,continuing,yes,female
+366,120,42,1107,No Aura,52,24.8,continuing,no,female
+367,120,44,1109,No Aura,52,24.8,continuing,yes,female
+368,120,45,1110,No Aura,52,24.8,continuing,yes,female
+369,120,46,1111,No Aura,52,24.8,continuing,no,female
+370,120,47,1112,No Aura,52,24.8,continuing,no,female
+371,120,48,1113,No Aura,52,24.8,continuing,no,female
+372,120,50,1115,No Aura,52,24.8,continuing,no,female
+373,120,51,1116,No Aura,52,24.8,continuing,yes,female
+374,120,52,1117,No Aura,52,24.8,continuing,no,female
+375,120,53,1118,No Aura,52,24.8,continuing,yes,female
+376,120,56,1121,No Aura,52,24.8,continuing,yes,female
+377,121,-15,1050,Mixed,33,10,continuing,yes,female
+378,121,-14,1051,Mixed,33,9,continuing,yes,female
+379,121,-13,1052,Mixed,33,20,continuing,yes,female
+380,121,-12,1053,Mixed,33,14,continuing,yes,female
+381,121,-11,1054,Mixed,33,8,continuing,yes,female
+382,121,-10,1055,Mixed,33,20,continuing,yes,female
+383,121,-9,1056,Mixed,33,14,continuing,yes,female
+384,121,-8,1057,Mixed,33,14,continuing,yes,female
+385,121,-7,1058,Mixed,33,21,continuing,yes,female
+386,121,-6,1059,Mixed,33,19,continuing,yes,female
+387,121,-5,1060,Mixed,33,12,continuing,yes,female
+388,121,-4,1061,Mixed,33,12,continuing,yes,female
+389,121,-3,1062,Mixed,33,12,continuing,yes,female
+390,121,-2,1063,Mixed,33,22,continuing,yes,female
+391,121,9,1074,Mixed,33,17,continuing,yes,female
+392,121,10,1075,Mixed,33,18,continuing,yes,female
+393,121,11,1076,Mixed,33,21,continuing,yes,female
+394,121,12,1077,Mixed,33,31,continuing,yes,female
+395,121,13,1078,Mixed,33,38,continuing,yes,female
+396,121,14,1079,Mixed,33,33,continuing,yes,female
+397,121,15,1080,Mixed,33,13,continuing,yes,female
+398,121,16,1081,Mixed,33,12,continuing,no,female
+399,121,17,1082,Mixed,33,15,continuing,yes,female
+400,121,18,1083,Mixed,33,12,continuing,yes,female
+401,121,19,1084,Mixed,33,17,continuing,yes,female
+402,121,20,1085,Mixed,33,18,continuing,no,female
+403,121,21,1086,Mixed,33,18,continuing,yes,female
+404,121,22,1087,Mixed,33,11,continuing,yes,female
+405,121,23,1088,Mixed,33,18,continuing,yes,female
+406,121,24,1089,Mixed,33,17,continuing,yes,female
+407,121,25,1090,Mixed,33,12,continuing,yes,female
+408,121,26,1091,Mixed,33,16,continuing,yes,female
+409,121,27,1092,Mixed,33,17,continuing,yes,female
+410,121,28,1093,Mixed,33,17,continuing,yes,female
+411,121,29,1094,Mixed,33,17,continuing,yes,female
+412,121,30,1095,Mixed,33,11,continuing,yes,female
+413,121,32,1097,Mixed,33,14,continuing,no,female
+414,121,33,1098,Mixed,33,20,continuing,no,female
+415,121,34,1099,Mixed,33,19,continuing,yes,female
+416,121,35,1100,Mixed,33,15,continuing,yes,female
+417,122,-29,1071,No Aura,60,16,continuing,yes,female
+418,122,-28,1072,No Aura,60,18,continuing,yes,female
+419,122,-27,1073,No Aura,60,20,continuing,yes,female
+420,122,-26,1074,No Aura,60,17,continuing,no,female
+421,122,-25,1075,No Aura,60,20,continuing,no,female
+422,122,-24,1076,No Aura,60,20,continuing,yes,female
+423,122,-23,1077,No Aura,60,20,continuing,no,female
+424,122,-22,1078,No Aura,60,22,continuing,yes,female
+425,122,-21,1079,No Aura,60,18,continuing,yes,female
+426,122,-20,1080,No Aura,60,10,continuing,yes,female
+427,122,-19,1081,No Aura,60,14,continuing,yes,female
+428,122,-18,1082,No Aura,60,16,continuing,no,female
+429,122,-17,1083,No Aura,60,17,continuing,no,female
+430,122,1,1101,No Aura,60,14,continuing,yes,female
+431,122,2,1102,No Aura,60,14,continuing,yes,female
+432,122,3,1103,No Aura,60,17,continuing,yes,female
+433,122,4,1104,No Aura,60,24,continuing,yes,female
+434,122,5,1105,No Aura,60,11,continuing,yes,female
+435,122,6,1106,No Aura,60,17,continuing,yes,female
+436,122,7,1107,No Aura,60,17,continuing,yes,female
+437,122,8,1108,No Aura,60,16,continuing,yes,female
+438,122,9,1109,No Aura,60,13,continuing,yes,female
+439,122,10,1110,No Aura,60,17,continuing,yes,female
+440,122,11,1111,No Aura,60,19,continuing,yes,female
+441,122,12,1112,No Aura,60,21,continuing,yes,female
+442,122,13,1113,No Aura,60,15,continuing,no,female
+443,122,14,1114,No Aura,60,20,continuing,yes,female
+444,122,15,1115,No Aura,60,21,continuing,no,female
+445,122,16,1116,No Aura,60,20,continuing,no,female
+446,122,17,1117,No Aura,60,14,continuing,yes,female
+447,123,1,1101,No Aura,24,22,none,yes,female
+448,123,2,1102,No Aura,24,18,none,yes,female
+449,123,3,1103,No Aura,24,17,none,yes,female
+450,123,4,1104,No Aura,24,19,none,yes,female
+451,123,5,1105,No Aura,24,16,none,yes,female
+452,123,6,1106,No Aura,24,17,none,no,female
+453,123,7,1107,No Aura,24,31,none,yes,female
+454,123,8,1108,No Aura,24,31,none,yes,female
+455,123,9,1109,No Aura,24,17,none,yes,female
+456,123,10,1110,No Aura,24,17,none,yes,female
+457,123,11,1111,No Aura,24,18,none,yes,female
+458,123,12,1112,No Aura,24,19,none,yes,female
+459,123,13,1113,No Aura,24,36,none,yes,female
+460,123,14,1114,No Aura,24,25,none,yes,female
+461,123,15,1115,No Aura,24,20,none,yes,female
+462,123,16,1116,No Aura,24,22,none,no,female
+463,123,17,1117,No Aura,24,14,none,yes,female
+464,124,-15,1085,No Aura,45,18,continuing,yes,male
+465,124,-14,1086,No Aura,45,18,continuing,no,male
+466,124,-13,1087,No Aura,45,12,continuing,no,male
+467,124,-12,1088,No Aura,45,19,continuing,no,male
+468,124,-11,1089,No Aura,45,20,continuing,no,male
+469,124,-10,1090,No Aura,45,14,continuing,yes,male
+470,124,-9,1091,No Aura,45,16,continuing,no,male
+471,124,-8,1092,No Aura,45,17,continuing,no,male
+472,124,-7,1093,No Aura,45,17,continuing,no,male
+473,124,-6,1094,No Aura,45,16,continuing,no,male
+474,124,-4,1096,No Aura,45,14,continuing,yes,male
+475,124,-3,1097,No Aura,45,14,continuing,no,male
+476,124,-2,1098,No Aura,45,17,continuing,no,male
+477,124,-1,1099,No Aura,45,18,continuing,no,male
+478,124,1,1101,No Aura,45,16,continuing,no,male
+479,124,2,1102,No Aura,45,20,continuing,yes,male
+480,124,3,1103,No Aura,45,18,continuing,yes,male
+481,124,4,1104,No Aura,45,14,continuing,yes,male
+482,124,5,1105,No Aura,45,13,continuing,no,male
+483,124,6,1106,No Aura,45,17,continuing,no,male
+484,124,7,1107,No Aura,45,31,continuing,no,male
+485,124,8,1108,No Aura,45,18,continuing,no,male
+486,124,9,1109,No Aura,45,13,continuing,yes,male
+487,124,10,1110,No Aura,45,16,continuing,no,male
+488,124,11,1111,No Aura,45,19,continuing,yes,male
+489,124,12,1112,No Aura,45,18,continuing,no,male
+490,124,13,1113,No Aura,45,25,continuing,no,male
+491,124,14,1114,No Aura,45,24,continuing,yes,male
+492,124,15,1115,No Aura,45,21,continuing,no,male
+493,124,16,1116,No Aura,45,22,continuing,no,male
+494,124,17,1117,No Aura,45,16,continuing,no,male
+495,124,18,1118,No Aura,45,13,continuing,no,male
+496,125,-17,1083,No Aura,47,12,reduced,yes,female
+497,125,-16,1084,No Aura,47,17,reduced,yes,female
+498,125,-15,1085,No Aura,47,18,reduced,yes,female
+499,125,-14,1086,No Aura,47,18,reduced,yes,female
+500,125,5,1105,No Aura,47,12,reduced,no,female
+501,125,6,1106,No Aura,47,17,reduced,yes,female
+502,125,7,1107,No Aura,47,27,reduced,yes,female
+503,125,8,1108,No Aura,47,32,reduced,yes,female
+504,125,9,1109,No Aura,47,24,reduced,yes,female
+505,125,10,1110,No Aura,47,18,reduced,yes,female
+506,125,11,1111,No Aura,47,22,reduced,yes,female
+507,125,14,1114,No Aura,47,16,reduced,yes,female
+508,125,15,1115,No Aura,47,19,reduced,no,female
+509,125,16,1116,No Aura,47,21,reduced,yes,female
+510,125,17,1117,No Aura,47,15,reduced,no,female
+511,125,18,1118,No Aura,47,12,reduced,no,female
+512,125,19,1119,No Aura,47,12,reduced,no,female
+513,125,20,1120,No Aura,47,21,reduced,no,female
+514,126,-14,1114,Mixed,33,37,none,yes,male
+515,126,-13,1115,Mixed,33,21,none,yes,male
+516,126,-12,1116,Mixed,33,22,none,no,male
+517,126,-11,1117,Mixed,33,16,none,yes,male
+518,126,-10,1118,Mixed,33,11,none,yes,male
+519,126,-9,1119,Mixed,33,14,none,yes,male
+520,126,-8,1120,Mixed,33,20,none,yes,male
+521,126,-7,1121,Mixed,33,21,none,yes,male
+522,126,-6,1122,Mixed,33,14,none,yes,male
+523,126,-5,1123,Mixed,33,21,none,yes,male
+524,126,-4,1124,Mixed,33,29,none,yes,male
+525,126,-3,1125,Mixed,33,19,none,yes,male
+526,126,-2,1126,Mixed,33,20,none,no,male
+527,126,-1,1127,Mixed,33,20,none,no,male
+528,126,22,1150,Mixed,33,12,none,yes,male
+529,126,23,1151,Mixed,33,25,none,yes,male
+530,126,24,1152,Mixed,33,25,none,yes,male
