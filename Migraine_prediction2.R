@@ -1,11 +1,6 @@
-## Author: Utkarsh Kulshrestha
-## Company Name: Wipro Technologies
-## Email : kuls.utkarsh1205@gmail.com
 
 
-## Let us first set the working directory path
-
-#setwd ("D:/utkarsh/Datafile/")
+#setwd ("****")
 #getwd()
 
 ## Data Import
@@ -33,7 +28,7 @@ library(rpart.plot)
 
 
 ## Target Rate 
-sum((CTDF.dev$headache))/4152
+#sum((CTDF.dev$headache))/4152
 
 ## setting the control paramter inputs for rpart
 r.ctrl = rpart.control(minsplit=100, minbucket = 10, cp = 0, xval = 5)
