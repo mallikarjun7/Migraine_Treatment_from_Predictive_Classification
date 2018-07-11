@@ -1,9 +1,3 @@
-## Author: Utkarsh Kulshrestha
-## Company Name: Wipro Technologies
-## Email : kuls.utkarsh1205@gmail.com
-
-
-## Let us first set the working directory path
 
 #setwd ("D:/utkarsh/Datafile/")
 #getwd()
